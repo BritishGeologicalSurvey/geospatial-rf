@@ -3,7 +3,7 @@
 * The `geospatial-rf` library provides a series of functions and wrappers to assist with random forest applications in a spatial context
 * It was developed to assist in the classification of exposed rock features from multi-variate datasets, but has wider applications
 * A full methodology for the code is being published and is currently under review
-    - Williams et al., (submitted)
+    - Williams et al., (submitted) :zap: hyperlink to be added to publication :zap:
 * The underlying codebase is being made publically available to support others undertaking or experimenting with simialr approaches
 
 ## Overview
@@ -12,7 +12,7 @@
 
 To assist users of this library, a worked example implementation is provided that demonstrates how rock/presence absence can be predicted using geospatial (x,y) terrain derivative information, considering a training dataset that also denotes rock presence and absence. In addition to the example provided, scripts are provided for the full data pipeline from data processing to results visualisation. Note that due to the varying nature of geospatial datasets and the possible applications of this repository, some modification is required to run these scripts for differen applciations.
 
-This code is provided to supplement the publication on the development and use of this code for the purposes of predicting geological rock exposure - please refer to Williams et al., 2023 :zap: hyperlink to be added to publication :zap:
+This code is provided to supplement the publication on the development and use of this code for the purposes of predicting geological rock exposure - please refer to Williams et al. (submitted) :zap: hyperlink to be added to publication :zap:
 
 ## License info
 
