@@ -3,7 +3,7 @@
 * The `geospatial-rf` library provides a series of functions and wrappers to assist with random forest applications in a spatial context
 * It was developed to assist in the classification of exposed rock features from multi-variate datasets, but has wider applications
 * A full methodology for the code is being published and is currently under review
-    - Williams et al., 2023. 
+    - Williams et al., (submitted)
 * The underlying codebase is being made publically available to support others undertaking or experimenting with simialr approaches
 
 ## Overview
