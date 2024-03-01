@@ -1,4 +1,4 @@
-# geospatial-random-forest
+# geospatial-rf
 
 * The `geospatial-rf` library provides a series of functions and wrappers to assist with random forest applications in a spatial context
 * It was developed to assist in the classification of exposed rock features from multi-variate datasets, but has wider applications
