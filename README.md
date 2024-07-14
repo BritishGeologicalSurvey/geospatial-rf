@@ -8,7 +8,7 @@
 
 ## Overview
 
-`geospatial-rf` is a python library that consists of functions that assist in the preparation of data and implementation of the random forest classifier in a geospatial context. It may be used to train, test and visualise the results of a Random Forest model. H2O is the underpinning modelling library that is used for model training. This impleemntation was initially designed to enable feature classification of rock presence/absence based on terrain derivatives.
+`geospatial-rf` is a python library that consists of functions that assist in the preparation of data and implementation of the random forest classifier in a geospatial context. It may be used to train, test and visualise the results of a Random Forest model. H2O is the underpinning modelling library that is used for model training. This implementation was initially designed to enable feature classification of rock presence/absence based on terrain derivatives.
 
 To assist users of this library, a worked example implementation is provided that demonstrates how rock/presence absence can be predicted using geospatial (x,y) terrain derivative information, considering a training dataset that also denotes rock presence and absence. In addition to the example provided, scripts are provided for the full data pipeline from data processing to results visualisation. Note that due to the varying nature of geospatial datasets and the possible applications of this repository, some modification is required to run these scripts for differen applciations.
 
